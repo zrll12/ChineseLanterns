@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "chineselanterns",
+  "version": "${version}",
+  "name": "ChineseLanterns",
+  "description": "",
+  "authors": [
+    ""
+  ],
+  "contact": {
+    "homepage": ""
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/chineselanterns/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cc.vastsea.chineselanterns.fabric.ChineselanternsFabric"
+    ],
+    "client": [
+      "cc.vastsea.chineselanterns.fabric.client.ChineselanternsFabricClient"
+    ]
+  },
+  "mixins": [
+    "chineselanterns.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.20.6",
+    "java": ">=21",
+    "architectury": ">=12.1.3",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
