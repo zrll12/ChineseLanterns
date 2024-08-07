@@ -10,7 +10,7 @@ public final class Chineselanterns {
     public static void init() {
         System.out.println("ChineseLantern initializing.");
         ModBlocks.registerBlocks();
-        ModItemTab.registerModItemTab();
         ModItems.registerItems();
+        ModItemTab.registerModItemTab();
     }
 }

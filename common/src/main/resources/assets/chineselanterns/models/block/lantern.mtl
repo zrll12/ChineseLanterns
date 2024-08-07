@@ -1,0 +1,21 @@
+newmtl minecraft_wool_colored_red_-1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd textures/minecraft/wool_colored_red_-1.png
+Ns 100.0
+d 1.0
+newmtl minecraft_wool_colored_yellow_-1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd textures/minecraft/wool_colored_yellow_-1.png
+Ns 100.0
+d 1.0
+newmtl minecraft_iron_block_-1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd textures/minecraft/iron_block_-1.png
+Ns 100.0
+d 1.0

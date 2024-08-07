@@ -1,0 +1,6 @@
+{
+  "parent": "block/block",
+  "loader": "forge:obj",
+  "model": "chineselanterns:models/block/lantern.obj",
+  "flip-v": true
+}
